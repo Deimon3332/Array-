@@ -1,0 +1,7 @@
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\bin\Debug\Завдання_10.Максимум_у_масиві.exe.config
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\bin\Debug\Завдання_10.Максимум_у_масиві.exe
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\bin\Debug\Завдання_10.Максимум_у_масиві.pdb
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\obj\Debug\Завдання 10. Максимум у масиві.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\obj\Debug\Завдання 10. Максимум у масиві.csproj.CoreCompileInputs.cache
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\obj\Debug\Завдання_10.Максимум_у_масиві.exe
+C:\Users\Deimo\source\repos\Завдання 10. Максимум у масиві\Завдання 10. Максимум у масиві\obj\Debug\Завдання_10.Максимум_у_масиві.pdb

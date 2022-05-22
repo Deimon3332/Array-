@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Завдання 11. Кількість різних елементів у монотонному", "Завдання 11. Кількість різних елементів у монотонному\Завдання 11. Кількість різних елементів у монотонному.csproj", "{FADF3580-91E6-4883-8077-D7125B0882C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADF3580-91E6-4883-8077-D7125B0882C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADF3580-91E6-4883-8077-D7125B0882C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADF3580-91E6-4883-8077-D7125B0882C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADF3580-91E6-4883-8077-D7125B0882C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F3F8E9-C99D-4B86-8687-CBDFAA1D8AEA}
+	EndGlobalSection
+EndGlobal

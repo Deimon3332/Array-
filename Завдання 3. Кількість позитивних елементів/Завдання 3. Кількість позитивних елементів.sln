@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Завдання 3. Кількість позитивних елементів", "Завдання 3. Кількість позитивних елементів\Завдання 3. Кількість позитивних елементів.csproj", "{84B9DA72-F3D2-4AE6-85CC-881B6E5916DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B9DA72-F3D2-4AE6-85CC-881B6E5916DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B9DA72-F3D2-4AE6-85CC-881B6E5916DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B9DA72-F3D2-4AE6-85CC-881B6E5916DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B9DA72-F3D2-4AE6-85CC-881B6E5916DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60268797-3789-46D9-BA2B-CC97F3F8CF5E}
+	EndGlobalSection
+EndGlobal

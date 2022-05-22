@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b74016a-b0c5-4b9a-898b-64b100d4935f": {
+      "ProjectGuid": "5b74016a-b0c5-4b9a-898b-64b100d4935f",
+      "DisplayName": "Завдання 4. Кількість елементів, більших за попередній",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

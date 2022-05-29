@@ -1,0 +1,8 @@
+C:\Users\Deimo\source\repos\array11-33\array11-33\bin\Debug\array11-33.exe.config
+C:\Users\Deimo\source\repos\array11-33\array11-33\bin\Debug\array11-33.exe
+C:\Users\Deimo\source\repos\array11-33\array11-33\bin\Debug\array11-33.pdb
+C:\Users\Deimo\source\repos\array11-33\array11-33\obj\Debug\array11-33.csproj.AssemblyReference.cache
+C:\Users\Deimo\source\repos\array11-33\array11-33\obj\Debug\array11-33.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deimo\source\repos\array11-33\array11-33\obj\Debug\array11-33.csproj.CoreCompileInputs.cache
+C:\Users\Deimo\source\repos\array11-33\array11-33\obj\Debug\array11-33.exe
+C:\Users\Deimo\source\repos\array11-33\array11-33\obj\Debug\array11-33.pdb
